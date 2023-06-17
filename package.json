@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-article-preview-nodejs-express",
 	"version": "1.0.0",
-	"description": "article preview project using nodejs with express framework",
+	"description": "article preview component using nodejs with express framework",
 	"main": "index.js",
 	"scripts": {
 		"start-sass": "sass --watch src/scss/main.scss public/css/main.css",
